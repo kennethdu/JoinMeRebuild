@@ -3,4 +3,12 @@
   width: 108px;
   height: 78px;
   position: absolute;
+  margin-left: 1%;
+}
+
+#backImage {
+  /* opacity: .3; */
+  z-index: -1;
+  position: relative;
+  width: 100%;
 }
