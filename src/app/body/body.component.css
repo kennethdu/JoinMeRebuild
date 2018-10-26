@@ -10,9 +10,8 @@
 }
 
 .content{
-  text-align: center;
-  margin-left: 27%;
-  margin-right: 27%;
+  margin-left: 25%;
+  margin-right: 25%;
   display: block;
 }
 
@@ -31,6 +30,7 @@ p{
   margin-inline-end: 0px;
   font-size: 16px;
   text-align: left;
+  position: absolute;
 }
 
 h2{
