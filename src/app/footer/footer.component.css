@@ -1,3 +1,12 @@
 footer, #socialMedia {
   text-align: center;
 }
+
+ul {
+  display: inline-block;
+  list-style-type: none;
+}
+
+.col-half-offset{
+    margin-left:4.166666667%
+}
