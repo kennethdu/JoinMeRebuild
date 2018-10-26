@@ -8,11 +8,14 @@
 
 .content{
   text-align: center;
-
+  margin-left: 25%;
+  margin-right: 25%;
+  display: block;
 }
 
-a {
+a{
   color: #ff8e00;
+  text-align: left;
 }
 
 p{
@@ -24,4 +27,11 @@ p{
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   font-size: 16px;
+  text-align: left;
+}
+
+h2{
+  text-align: left;
+  margin-bottom: 5%;
+  font-size: 48px;
 }
