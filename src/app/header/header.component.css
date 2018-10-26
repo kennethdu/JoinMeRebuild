@@ -71,21 +71,21 @@
 }
 
 #button1{
-background-color: rgb(255, 142, 0);
-color: white;
-max-width: 280px;
-width: 100%;
-font-size: 22px;
-font-weight: 900;
+  background-color: rgb(255, 142, 0);
+  color: white;
+  max-width: 280px;
+  width: 100%;
+  font-size: 22px;
+  font-weight: 900;
 }
 
 #button2{
-background-color: rgb(110, 220, 43);
-color:white;
-max-width: 280px;
-width: 100%;
-font-size: 22px;
-font-weight: 900;
+  background-color: rgb(110, 220, 43);
+  color:white;
+  max-width: 280px;
+  width: 100%;
+  font-size: 22px;
+  font-weight: 900;
 }
 
 .bold{
