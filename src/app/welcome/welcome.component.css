@@ -1,17 +1,8 @@
-footer, #socialMedia, h2, #button {
+.center{
   text-align: center;
 }
 
-ul {
-  display: inline-block;
-  list-style-type: none;
-}
-
-.col-half-offset{
-    margin-left:4.166666667%
-}
-
-/* #button{
+#button{
   font-size: 18px;
   display: inline-block;
   width: 100%;
@@ -26,8 +17,4 @@ ul {
   text-transform: uppercase;
   cursor: pointer;
   background-color: #ff8e00;
-} */
-
-.center{
-  text-align: center;
 }
