@@ -10,6 +10,7 @@ import { HeaderComponent } from './header/header.component';
 import { BodyComponent } from './body/body.component';
 import { FooterComponent } from './footer/footer.component';
 import { SocialMediaComponent } from './social-media/social-media.component';
+import { MenuButtonComponent } from './menu-button/menu-button.component';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -26,7 +27,8 @@ export const firebaseConfig = {
     BodyComponent,
     HeaderComponent,
     WelcomeComponent,
-    SocialMediaComponent
+    SocialMediaComponent,
+    MenuButtonComponent
   ],
   imports: [
     BrowserModule,
