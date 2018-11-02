@@ -8,27 +8,11 @@
 
 _Site Rebuild._
 
-You're almost 75% of the way through Epicodus (not including your internship) and it's time to start building more portfolio pieces!
+Site Rebuild of join.me. This is a two-week project for Epicodus. To demonstrate usage of a nosql database, and Angular
 
-Over the next two weeks, you'll rebuild a site of your choice using Angular, as described in the Code Review Prep: Rebuilding a Site with Angular lesson from earlier this week. Refer back to this lesson for more details, and an explanation of how your project will be evaluated.
+This site displays features such as: firebase database, firebase deployment, HTML, CSS.
 
-Today, you should focus on planning your application and building and separating your application into components. If you have additional time, consider adding a pipe and jumping into next week's content (such as adding a database or a router).
-Building Out Your Application
-
-Once you have built out the basic structure of your application and separated the code into working components, consider adding:
-
-    More directives (practice with ngIf, ngFor, and more).
-    Full CRUD functionality that changes your models.
-    Firebase (a noSQL database) instead of a hard-coded dataset.
-    Seed data for your database.
-    Pipes for filtering data.
-    A router for adding additional pages.
-    Authentication and route guards.
-    Deployment (as a dry run for next week).
-    API calls.
-    CSS styling.
-    Tests using Jasmine and Protractor.
-
+In the future additions: parsing data through subscribe() to specify placement on site rebuild, implement pseudo login, future css.
 
 # JoinMeRebuild
 
@@ -74,6 +58,9 @@ _Mono_
 _Git_
 _Github_
 _HTML_
+_Firebase_
+_Popper.js_
+_BootStrap_
 
 ### License
 
