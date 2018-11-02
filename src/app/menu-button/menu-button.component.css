@@ -1,3 +1,8 @@
 .btn-group{
   position: absolute;
 }
+
+#right{
+  float: right;
+  margin-right: 25%;
+}
