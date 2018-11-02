@@ -11,6 +11,11 @@ ul {
     margin-left:4.166666667%
 }
 
+ul {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 /* #button{
   font-size: 18px;
   display: inline-block;
@@ -28,6 +33,6 @@ ul {
   background-color: #ff8e00;
 } */
 
-.center{
+/* .center{
   text-align: center;
-}
+} */
