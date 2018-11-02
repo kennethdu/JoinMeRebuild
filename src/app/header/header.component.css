@@ -36,6 +36,19 @@
   color: white;
 }
 
+#centerText1{
+   font-size: 80px;
+  font-weight: 900;
+  line-height: 64px;
+  text-align: center;
+  display: block;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
 .text-block{
   position: absolute;
   bottom: 1px;
@@ -90,4 +103,9 @@
 
 .bold{
   font-weight: 900;
+}
+
+h3:hover {
+  text-decoration: underline;
+  cursor: pointer;
 }
