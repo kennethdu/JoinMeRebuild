@@ -5,34 +5,14 @@ footer, h2, #button {
 ul {
   display: inline-block;
   list-style-type: none;
-}
-
-.col-half-offset{
-    margin-left:4.166666667%
-}
-
-ul {
   margin-left: 5%;
   margin-right: 5%;
 }
 
-/* #button{
-  font-size: 18px;
-  display: inline-block;
-  width: 100%;
-  max-width: 280px;
-  margin: 5px 0;
-  padding: 1.125em 2em;
-  border-radius: .5em;
-  font-family: "Rubik",sans-serif;
-  font-weight: 700;
-  line-height: center;
-  text-decoration: none;
-  text-transform: uppercase;
-  cursor: pointer;
-  background-color: #ff8e00;
-} */
+a {
+  color: black;
+}
 
-/* .center{
-  text-align: center;
-} */
+a:hover{
+  color: orange;
+}
