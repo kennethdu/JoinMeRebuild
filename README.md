@@ -8,9 +8,15 @@
 
 _Site Rebuild._
 
+
 Site Rebuild of join.me. This is a two-week project for Epicodus. To demonstrate usage of a nosql database, and Angular
 
+
+![Screenshot](https://i.imgur.com/1tNmDuP.jpg)
+
 This site displays features such as: firebase database, firebase deployment, HTML, CSS.
+
+Firebase Link: https://join-me-rebuild.firebaseapp.com/ 
 
 In the future additions: parsing data through subscribe() to specify placement on site rebuild, implement pseudo login, future css.
 
@@ -44,7 +50,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Known Bugs
 
-_No known bugs._
+Known issue: scaling. If on 13" monitor, scale the browser to 50%, if on 24"+% scale regularly
 
 ## Support and contact details
 
