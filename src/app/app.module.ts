@@ -8,6 +8,7 @@ import { WelcomeComponent } from './welcome/welcome.component';
 import { HeaderComponent } from './header/header.component';
 import { BodyComponent } from './body/body.component';
 import { FooterComponent } from './footer/footer.component';
+import { SocialMediaComponent } from './social-media/social-media.component';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -23,7 +24,8 @@ export const firebaseConfig = {
     FooterComponent,
     BodyComponent,
     HeaderComponent,
-    WelcomeComponent
+    WelcomeComponent,
+    SocialMediaComponent
   ],
   imports: [
     BrowserModule,
