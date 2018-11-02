@@ -50,7 +50,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Known Bugs
 
-Known issue: scaling. If on 13" monitor, scale the browser to 50%, if on 24"+% scale regularly
+Known issue: scaling. If on 13" monitor, scale the browser to 50%, if on 24"+% scale regularly. Database entry are not positioned correctly
 
 ## Support and contact details
 
@@ -64,6 +64,7 @@ _Mono_
 _Git_
 _Github_
 _HTML_
+_Angular 5.2.11_
 _Firebase_
 _Popper.js_
 _BootStrap_
